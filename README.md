@@ -1,2 +1,2 @@
 # transformer
-GPT Architectures
+Transformer Encoder Architectures
